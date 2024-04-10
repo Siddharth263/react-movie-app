@@ -32,9 +32,13 @@ This application allows users to search for movies using the OMDB API and view d
 ## Screenshots
 
 ![Screenshot1](images/homePage.png)
+
 ![Screenshot2](images/searchingMovie1.png)
+
 ![Screenshot3](images/searchingMovie2.png)
-![Screenshot4](images/searchingMovie3.png)
+
+![Screenshot4](images/seachingMovie3.png)
+
 ![Screenshot5](images/error.png)
 
 ## Credits
