@@ -13,4 +13,30 @@ This application allows users to search for movies using the OMDB API and view d
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: (`git clone https://github.com/Siddharth263/react-movie-app.git`)
+2. Navigate to the project directory: (`cd react-movie-app`)
+3. install dependencies: (`npm install`)
+4. Start the development server: (`npm start`)
+5. Open http://localhost:3000 in your web browser to view the app.
+
+## Usage
+
+- Enter a movie title in the search bar and press Enter or click the search button to search for movies.
+- Click on a movie to view its details.
+
+## Technologies Used
+
+- ReactJs
+- CSS
+
+## Screenshots
+
+![Screenshot1](./react-movie-app/images/homePage.png)
+![Screenshot2](./react-movie-app/images/searchingMovie1.png)
+![Screenshot3](./react-movie-app/images/searchingMovie2.png)
+![Screenshot4](./react-movie-app/images/searchingMovie3.png)
+![Screenshot5](./react-movie-app/images/error.png)
+
+## Credits
+
+- The OMDB API for providing movie data.
