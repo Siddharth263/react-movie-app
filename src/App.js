@@ -14,7 +14,7 @@ const App = () => {
   });
 
   const searchMovie = async (title) => {
-    fetch(`http://www.omdbapi.com/?i=tt3896198&apikey=c6a8c372&s=${title}`)
+    fetch(`https://www.omdbapi.com/?i=tt3896198&apikey=c6a8c372&s=${title}`)
       .then((res) => {
         if (!res.ok) throw new Error("no Movies found");
         return res.json();
